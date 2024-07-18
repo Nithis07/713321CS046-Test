@@ -1,8 +1,8 @@
-/* register.css */
-
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-image: url(hero-banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
   }
   
   .card {
